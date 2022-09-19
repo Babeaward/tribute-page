@@ -1,0 +1,48 @@
+
+.topnav{background-color: rgb(177, 164, 164);
+overflow: hidden;
+color: white;
+width: 100%;
+}
+.topnav a{
+  float:none;
+  color: white;
+  text-align: center;
+  padding: 5px 7px;
+  text-decoration: none;
+  font-size: 11px;
+}
+.topnav a.active{
+  background-color: aqua;
+  color: beige;
+}
+
+.topnav a:hover{
+  background-color: brown;
+  color: blueviolet;
+}
+
+.top{
+  text-align: center;
+  width: 67%;
+  height: auto;
+  font-size: 19px;
+  margin: 0 auto;
+}
+.bat{
+  text-align: justify;
+  width: 40%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.author{color: gray;
+
+}
+footer{text-align: center;
+  line-height: 7%;
+  width: 67%;
+  height: auto;
+  font-size: 19px;
+  margin: 0 auto;
+
+}
